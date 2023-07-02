@@ -1,6 +1,6 @@
 # Memory Game in HTML, CSS and JS
 
-In this Project at OpenGenus, we explored the famous chrome game.
+In this Project at OpenGenus, we explored Memory Game in HTML,CSS and JS.
 
 This is the code repository for the game. In this game we were focused on using DOM and add elements. 
 

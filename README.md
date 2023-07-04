@@ -4,7 +4,7 @@ In this Project at OpenGenus, we explored Memory Game in HTML, CSS and JS.
 
 This is the code repository for the game. In this game, we were focused on using DOM and adding elements. 
 
-The article related to this repository is [here](https://iq.opengenus.org/p/8e37a6b0-b717-4bc4-860d-e5ffaa36f751/)
+The article related to this repository is [here](https://iq.opengenus.org/memory-game-using-js-and-html/)
 
 <br>
 
